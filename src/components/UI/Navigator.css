@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.main {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  width: 15%;
+  background-color: #fd8725;
+}
+.ullist {
+  height: auto;
+  width: 100%;
+  padding: 0;
+}
+.heading {
+  padding: 20px;
+}
+.ullist .row {
+  height: 40px;
+  width: 100%;
+  list-style-type: none;
+  justify-content: center;
+  align-items: center;
+  margin: 0%;
+  display: flex;
+}
+
+.ullist .row :hover {
+  background-color: #ffffff;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: scale(105%);
+  width: 100%;
+  transition: 0.5s;
+}
+.ullist .row :active {
+  background-color: #ffffff;
+}
+.sidebar a {
+  color: black;
+}
+.link {
+  text-decoration-line: none;
+}

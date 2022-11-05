@@ -1,0 +1,12 @@
+.flexxrow {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  width: 98%;
+  height: 95%;
+  overflow-y: scroll;
+
+  padding-top: 50px;
+  justify-content: space-around;
+  /* height: 0vh; */
+}

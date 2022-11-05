@@ -1,0 +1,17 @@
+.vslotflexxcol {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid tomato;
+  padding: 20px;
+  width: 30%;
+  border-radius: 10px;
+  align-items: flex-start;
+  margin: 5px;
+}
+.vslottopic {
+  color: #fd8725;
+  margin-bottom: 10px;
+}
+.vsbtns {
+  margin-top: 15px !important;
+}

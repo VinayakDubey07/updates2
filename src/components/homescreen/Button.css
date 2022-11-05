@@ -1,0 +1,12 @@
+.Button1 {
+    justify-content: top;
+    align-self: center;
+    height: 50px;
+    width: 100px;
+    color: #FC8624;
+    display: flex;
+    background: #FC8624;
+    border-radius: 10px;
+    
+      
+    }
